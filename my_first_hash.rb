@@ -1,5 +1,5 @@
 def my_hash
- about_me = {"name"
+ harry_potter = {"name" => "Harry Potter", "house" => "Gryffindor", "friends" => "Ron Weasly, Hermione Granger"}
 
   
 end
